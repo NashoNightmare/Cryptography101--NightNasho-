@@ -5,13 +5,13 @@ This is full document of cryptography I have made using my past knowledge and ex
 
 ## Content - Quick Jump
 
-2.0 [![alt text](https://img.shields.io/badge/2.0-Useful%20Websites-orange)]() 
+- **2.0** [![alt text](https://img.shields.io/badge/2.0-Useful%20Websites-orange)]() 
 	[![alt text](https://img.shields.io/badge/2.1-Dcode.fr-yellow)]() 
 	[![alt text](https://img.shields.io/badge/2.1-Dcode.fr-yellow)]() 
 	[![alt text](https://img.shields.io/badge/2.1-Dcode.fr-yellow)]() 
 	[![alt text](https://img.shields.io/badge/2.1-Dcode.fr-yellow)]() 
 
-3.0 [![alt text](https://img.shields.io/badge/3.0-Interesting%20Ciphers-orange)]() 
+- **3.0** [![alt text](https://img.shields.io/badge/3.0-Interesting%20Ciphers-orange)]() 
 	[![alt text](https://img.shields.io/badge/3.1-Brainfuck%20Language-yellow)]() 
 	[![alt text](https://img.shields.io/badge/3.1-Brainfuck%20Language-yellow)]() 
 	[![alt text](https://img.shields.io/badge/3.1-Brainfuck%20Language-yellow)]() 
