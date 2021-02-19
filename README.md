@@ -6,18 +6,16 @@ This is full document of cryptography I have made using my past knowledge and ex
 ## Content - Quick Jump
 
 [![alt text](https://img.shields.io/badge/2.0-Useful%20Websites-orange)]() 
-
-	[![alt text](https://img.shields.io/badge/2.1-Dcode.fr-yellow)]() 
-	[![alt text](https://img.shields.io/badge/2.1-Dcode.fr-yellow)]() 
-	[![alt text](https://img.shields.io/badge/2.1-Dcode.fr-yellow)]() 
-	[![alt text](https://img.shields.io/badge/2.1-Dcode.fr-yellow)]() 
+	-[![alt text](https://img.shields.io/badge/2.1-Dcode.fr-yellow)]() 
+	-[![alt text](https://img.shields.io/badge/2.1-Dcode.fr-yellow)]() 
+	-[![alt text](https://img.shields.io/badge/2.1-Dcode.fr-yellow)]() 
+	-[![alt text](https://img.shields.io/badge/2.1-Dcode.fr-yellow)]() 
 
 [![alt text](https://img.shields.io/badge/3.0-Interesting%20Ciphers-orange)]() 
-
-	[![alt text](https://img.shields.io/badge/3.1-Brainfuck%20Language-yellow)]() 
-	[![alt text](https://img.shields.io/badge/3.1-Brainfuck%20Language-yellow)]() 
-	[![alt text](https://img.shields.io/badge/3.1-Brainfuck%20Language-yellow)]() 
-	[![alt text](https://img.shields.io/badge/3.1-Brainfuck%20Language-yellow)]() 
+	-[![alt text](https://img.shields.io/badge/3.1-Brainfuck%20Language-yellow)]() 
+	-[![alt text](https://img.shields.io/badge/3.1-Brainfuck%20Language-yellow)]() 
+	-[![alt text](https://img.shields.io/badge/3.1-Brainfuck%20Language-yellow)]() 
+	-[![alt text](https://img.shields.io/badge/3.1-Brainfuck%20Language-yellow)]() 
 
 ## 2.0 Useful Websites For Deciphering and Ciphering.
 
