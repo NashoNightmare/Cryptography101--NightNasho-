@@ -62,4 +62,26 @@ The binascii module contains number of methids to convert between binary and var
 
 Documentation : [Binascii Docs](https://docs.python.org/3/library/binascii.html)
 
+### 4.3 Crypto
+Python Cryptography Toolkit. A collection of cryptographic modules implementing various algorithms and protocols.
+
+Subpackages:
+
+- Crypto.Cipher
+	- Secret-key (AES, DES, ARC4) and public-key encryption (RSA PKCS#1) algorithms
+- Crypto.Hash
+	- Hashing algorithms (MD5, SHA, HMAC)
+- Crypto.Protocol
+	- Cryptographic protocols (Chaffing, all-or-nothing transform, key derivation functions). This package does not contain any network protocols.
+- Crypto.PublicKey
+	- Public-key encryption and signature algorithms (RSA, DSA)
+- Crypto.Signature
+	- Public-key signature algorithms (RSA PKCS#1)
+- Crypto.Util
+	- Various useful modules and functions (long-to-string conversion, random number generation, number theoretic functions)
+
+Basic  Usage:
+> from Crypto.Util.strxor import strxor
+
+Documentation : [Crypto](https://pythonhosted.org/pycrypto/Crypto-module.html)
 
