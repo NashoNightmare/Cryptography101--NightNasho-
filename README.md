@@ -17,8 +17,8 @@ This is full document of cryptography I have made using my past knowledge and ex
 	- [![alt text](https://img.shields.io/badge/3.1-Brainfuck%20Language-yellow)]() 
 	- [![alt text](https://img.shields.io/badge/3.1-Brainfuck%20Language-yellow)]() 
 
-- [![alt text](https://img.shields.io/badge/4.0-Python%20Libraries%20and%20Scripts-orange)]()
-	-[![alt text](https://img.shields.io/badge/4.1-Pillow%20(Image%20processing%20library)-yellow)]()
+- [![alt text](https://img.shields.io/badge/4.0-Python%20Libraries%20and%20Scripts-orange)](https://github.com/NashoNightmare/Cryptography101-NightNasho#40-python-libraries-and-scripts-useful-for-cryptography-and-steganography)
+	- [![alt text](https://img.shields.io/badge/4.1-Pillow%20(Image%20processing%20library)-yellow)](https://github.com/NashoNightmare/Cryptography101-NightNasho#41-pillow-library)
 
 ## 2.0 Useful Websites For Deciphering and Ciphering.
 
