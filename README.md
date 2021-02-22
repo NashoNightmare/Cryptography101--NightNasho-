@@ -42,7 +42,7 @@ Link for (En/De)Code : [https://www.dcode.fr/brainfuck-language](https://www.dco
 ## 4.0 Python Libraries and Scripts useful for Cryptography and Steganography
 
 ### 4.1 Pillow Library 
-Powerful image processing library.
+Powerful image processing library. It will help to convert the pixels of a specific image to rgb codes. Furthermore use colormap's rgb2hex to convert those values to hexadecimal.
 > pip install Pillow
 
 Documentation : [pillow.readthedocs.io](https://pillow.readthedocs.io/en/stable/)
@@ -50,5 +50,16 @@ Documentation : [pillow.readthedocs.io](https://pillow.readthedocs.io/en/stable/
 Image processing tutorials :
 - [OpenCV](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_table_of_contents_imgproc/py_table_of_contents_imgproc.html)
 - [Pillow](https://auth0.com/blog/image-processing-in-python-with-pillow/)
+
+### 4.2 Colormap
+Colormap package provides simple utilities to convert colors between RGB, HEX, HUV and a class to easily build colormaps for matplotlib.
+> pip install colormap
+
+Documentation : [colormap.readthedocs.io](https://colormap.readthedocs.io/en/latest/)
+
+### 4.3 Binascii 
+The binascii module contains number of methids to convert between binary and various ASCII-encoded binary representations. Normally, you will not use these functions directly but use wrapper modules like uu, base64 or binhex instead. The binascii module contains low-level functions written in C for greater speed that are used by the higher-level modules.
+
+Documentation : [Binascii Docs](https://docs.python.org/3/library/binascii.html)
 
 
