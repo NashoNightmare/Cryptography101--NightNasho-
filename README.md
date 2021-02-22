@@ -64,6 +64,7 @@ Documentation : [Binascii Docs](https://docs.python.org/3/library/binascii.html)
 
 ### 4.3 Crypto
 Python Cryptography Toolkit. A collection of cryptographic modules implementing various algorithms and protocols.
+> pip install pycrypto
 
 Subpackages:
 
