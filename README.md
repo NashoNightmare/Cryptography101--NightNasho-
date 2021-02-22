@@ -17,6 +17,9 @@ This is full document of cryptography I have made using my past knowledge and ex
 	- [![alt text](https://img.shields.io/badge/3.1-Brainfuck%20Language-yellow)]() 
 	- [![alt text](https://img.shields.io/badge/3.1-Brainfuck%20Language-yellow)]() 
 
+- [![alt text](https://img.shields.io/badge/4.0-Python%20Libraries%20and%20Scripts-orange)]()
+	-[![alt text](https://img.shields.io/badge/4.1-Pillow%20(Image%20processing%20library)-yellow)]()
+
 ## 2.0 Useful Websites For Deciphering and Ciphering.
 
 ### 2.1 Dcode.fr  
@@ -35,4 +38,17 @@ QR and Barcode Scanning tool online.
 > `Sample` : --[----->+<]>.++++++.-----------.++++++.[----->+<]>.----.---.+++[->+++<]>+.-------.++++++++++.++++++++++.++[->+++<]>.+++.[--->+<]>----.+++[->+++<]>++.++++++++.+++++.--------.-[--->+<]>--.+[->+++<]>+.++++++++.>--[-->+++<]>.
 
 Link for (En/De)Code : [https://www.dcode.fr/brainfuck-language](https://www.dcode.fr/brainfuck-language)
+
+## 4.0 Python Libraries and Scripts useful for Cryptography and Steganography
+
+### 4.1 Pillow Library 
+Powerful image processing library.
+> pip install Pillow
+
+Documentation : [pillow.readthedocs.io](https://pillow.readthedocs.io/en/stable/)
+
+Image processing tutorials :
+- [OpenCV](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_table_of_contents_imgproc/py_table_of_contents_imgproc.html)
+- [Pillow](https://auth0.com/blog/image-processing-in-python-with-pillow/)
+
 
