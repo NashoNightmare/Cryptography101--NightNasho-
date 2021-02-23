@@ -5,6 +5,8 @@ This is full document of cryptography I have made using my past knowledge and ex
 
 ## Content - Quick Jump
 
+- [![alt text](https://img.shields.io/badge/1.0%20--%20A-Cryptography%20Theory%20%5BPython%5D-orange)](https://github.com/NashoNightmare/Cryptography101-NightNasho#10---a-cryptography-theory-python)
+
 - [![alt text](https://img.shields.io/badge/2.0-Useful%20Websites-orange)](https://github.com/NashoNightmare/Cryptography101--NightNasho-#20-useful-websites-for-deciphering-and-ciphering) 
 	- [![alt text](https://img.shields.io/badge/2.1-Dcode.fr-yellow)](https://github.com/NashoNightmare/Cryptography101--NightNasho-#21-dcodefr) 
 	- [![alt text](https://img.shields.io/badge/2.2-IMGonline-yellow)](https://github.com/NashoNightmare/Cryptography101-NightNasho#22-imgonline) 
@@ -23,7 +25,7 @@ This is full document of cryptography I have made using my past knowledge and ex
 ## (1.0 - A) Cryptography Theory [Python]
 - Convert hexadecimal string to bytes - Use binascii module - `output = binascii.unhexlify(input)`
 - Convert bytes to a specific base - Use base64 - `output = base64.b64encode(input)` : Eg - 'nashonightmare' to 'bmFzaG9uaWdodG1hcmU=' : Note - base64 considers input as a ascii string when encoding and input as a base64 stream when decoding.
-- XORing given bytes - Use Crypto.Util.strxor module from [Crypto]() toolkit 
+- XORing given bytes - Use Crypto.Util.strxor module from [Crypto](https://github.com/NashoNightmare/Cryptography101-NightNasho#43-crypto) toolkit 
 
 ## 2.0 Useful Websites For Deciphering and Ciphering.
 
