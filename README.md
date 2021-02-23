@@ -27,6 +27,7 @@ This is full document of cryptography I have made using my past knowledge and ex
 - Convert bytes to a specific base - Use base64 - `output = base64.b64encode(input)` : Eg - 'nashonightmare' to 'bmFzaG9uaWdodG1hcmU=' : Note - base64 considers input as a ascii string when encoding and input as a base64 stream when decoding.
 - XORing given bytes - Use Crypto.Util.strxor module from [Crypto](https://github.com/NashoNightmare/Cryptography101-NightNasho#43-crypto) toolkit 
 - XOR-Swapping
+
 		a = a ^ b - a stores the xored value from a ^ b 
 		b = a ^ b - xored result re-xoring with value b will remove and assign the result to b (value a)
 		a = a ^ b - xored result re-xoring with vlaue a will remove and assign the result to a (value b)
