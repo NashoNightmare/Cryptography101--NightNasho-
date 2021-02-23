@@ -20,6 +20,11 @@ This is full document of cryptography I have made using my past knowledge and ex
 - [![alt text](https://img.shields.io/badge/4.0-Python%20Libraries%20and%20Scripts-orange)](https://github.com/NashoNightmare/Cryptography101-NightNasho#40-python-libraries-and-scripts-useful-for-cryptography-and-steganography)
 	- [![alt text](https://img.shields.io/badge/4.1-Pillow%20(Image%20processing%20library)-yellow)](https://github.com/NashoNightmare/Cryptography101-NightNasho#41-pillow-library)
 
+## (1.0 - A) Cryptography Theory [Python]
+- Convert hexadecimal string to bytes - Use binascii module - `output = binascii.unhexlify(input)`
+- Convert bytes to a specific base - Use base64 - `output = base64.b64encode(input)` : Eg - 'nashonightmare' to 'bmFzaG9uaWdodG1hcmU=' : Note - base64 considers input as a ascii string when encoding and input as a base64 stream when decoding.
+- XORing given bytes - Use Crypto.Util.strxor module from [Crypto]() toolkit 
+
 ## 2.0 Useful Websites For Deciphering and Ciphering.
 
 ### 2.1 Dcode.fr  
